@@ -3,7 +3,6 @@ import React, {useState} from 'react'
 const SignUpModal = ({showSignup, setShowSignup}) => {
    
   const [focused, setFocused] = useState(false);
-  const [focu, setFocu] = useState(false);
   
         const handleFocus = () => {
           setFocused(!focused)
