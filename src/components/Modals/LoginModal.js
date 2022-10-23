@@ -9,7 +9,7 @@ const LoginModal = ({show, setShow}) => {
 
     const [focused, setFocused] = useState(false);
     const [focu, setFocu] = useState(false);
-    const [submit, setSubmit] = useState(false);
+    
     
    
 
@@ -25,11 +25,6 @@ const LoginModal = ({show, setShow}) => {
   
 
       
-      const handleChange = (e) => {
-        const {value} = e.target;
-        console.log(value);
-      }
-
     
   return (
     <div>

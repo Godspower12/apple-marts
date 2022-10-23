@@ -8,10 +8,7 @@ const SignUpModal = ({showSignup, setShowSignup}) => {
         const handleFocus = () => {
           setFocused(!focused)
       }
-      const handleFoc = () => {
-          setFocu(!focu)
-      }
-
+   
     const removeToggle = () => {
         setShowSignup(!showSignup)
     }
