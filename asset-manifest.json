@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.388db249.css",
+    "main.js": "/static/js/main.1c12a5a0.js",
+    "static/js/787.3c863971.chunk.js": "/static/js/787.3c863971.chunk.js",
+    "static/media/iphone13pro.png": "/static/media/iphone13pro.eb648e4425b19c246196.png",
+    "static/media/image9.png": "/static/media/image9.4cddff291401bef78593.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/image1.jpg": "/static/media/image1.9e14210d6fcdedf40516.jpg",
+    "static/media/staff.jpg": "/static/media/staff.fbaf8777ca45c0c1f095.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/apple.png": "/static/media/apple.0469ba855702452f4d6a.png",
+    "static/media/image2.jpg": "/static/media/image2.2b15dd6cdc2c0ef9fc8f.jpg",
+    "static/media/iphone12proMax.jpg": "/static/media/iphone12proMax.8ffc9c7f4a46a3b4d625.jpg",
+    "static/media/iphone13promax.jpeg": "/static/media/iphone13promax.a1221f6512a7edef07de.jpeg",
+    "static/media/iphone11promax.jpg": "/static/media/iphone11promax.5b1b2b9b22f40408cb30.jpg",
+    "static/media/iPhone11.jpg": "/static/media/iPhone11.63534b60f7badd27077e.jpg",
+    "index.html": "/index.html",
+    "main.388db249.css.map": "/static/css/main.388db249.css.map",
+    "main.1c12a5a0.js.map": "/static/js/main.1c12a5a0.js.map",
+    "787.3c863971.chunk.js.map": "/static/js/787.3c863971.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.388db249.css",
+    "static/js/main.1c12a5a0.js"
+  ]
+}
