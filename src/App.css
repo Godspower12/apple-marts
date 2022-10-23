@@ -36,3 +36,71 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: aquamarine;
+  padding: 30px;
+}
+.header-content {
+  margin-top: 20px;
+  font-weight: bolder;
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  text-decoration: none;
+  justify-content: space-evenly;
+  padding-bottom: 10px;
+  
+}
+
+ ul, li, a {
+ display: flex;
+ flex-direction: row;
+ justify-content: space-around;
+ min-width: 25%;
+ margin-left: -10%;
+}
+a{
+  text-decoration: none;
+
+}
+a:hover{
+  text-decoration: underline;
+  color: white;
+}
+
+
+.loginBtn {
+  background-color: red;
+}
+.navBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 10px;
+}
+
+.loginbtn button {
+  background-color: rgb(69, 69, 253);
+  padding: 10px 30px;
+  margin-left: 10px;
+} 
+
+
